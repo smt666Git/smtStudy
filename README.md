@@ -1,2 +1,2 @@
 # smtStudy
-这是一个学习的笔记仓库
+这是一个 readme-edits 分支下的 readme.md 文件。
